@@ -1,0 +1,10 @@
+
+.DS_Store
+
+# Directories.
+log/
+node_modules/
+plugins/
+public/static/
+src/assets/
+build/
